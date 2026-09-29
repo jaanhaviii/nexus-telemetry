@@ -952,34 +952,3 @@ This project is intended primarily for educational, demonstration, and portfolio
 
 ````
 
-### Step 2 — Save it
-
-In Notepad:
-
-**Ctrl + S → close Notepad.**
-
-Then check:
-
-```powershell
-git status
-````
-
-You should see:
-
-```text
-modified: README.md
-```
-
-### Step 3 — Update GitHub
-
-Because your repository is already connected to GitHub, run:
-
-```powershell
-git add README.md
-git commit -m "Improve project documentation"
-git push
-```
-
-After this, refresh your GitHub repository and the new README will appear.
-
-**One thing I would do after this:** add your actual dashboard screenshots to a `docs` folder and put them into the README. That will make the repository much more recruiter-friendly than having a text-only README.
