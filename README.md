@@ -1,31 +1,5 @@
-Yes. Since this is going on your **public GitHub and LinkedIn**, I would make the README much more professional and detailed than the current one.
 
-A good recruiter-facing README should quickly answer:
 
-1. What is Nexus Telemetry?
-2. What problem does it solve?
-3. What did you build?
-4. How does the architecture work?
-5. What technologies did you use?
-6. What are the important features?
-7. How does the AI/RAG pipeline work?
-8. How can someone run it?
-9. What does the project look like?
-10. What are its limitations and future improvements?
-
-We can replace your current 254-line README with the following.
-
-### Step 1 — Open your README
-
-From your project folder:
-
-```powershell
-notepad README.md
-```
-
-Delete everything currently inside it and paste this:
-
-````markdown
 # Nexus Telemetry
 
 ### AI-Assisted Enterprise Monitoring and Observability Platform
