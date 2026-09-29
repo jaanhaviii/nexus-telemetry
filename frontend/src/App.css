@@ -1,0 +1,1 @@
+/* This file is intentionally left empty. Tailwind is loaded via src/index.css (@import 'tailwindcss';) and vite.config.js already includes the @tailwindcss/vite plugin, so no manual CSS is needed here. */
